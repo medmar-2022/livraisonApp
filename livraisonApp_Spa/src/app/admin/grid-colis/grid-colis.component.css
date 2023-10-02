@@ -1,0 +1,16 @@
+.tr{
+    border-radius: 10%;
+   
+   }
+   .table{
+     box-sizing: border-box;
+     border-radius: 5px;
+   }
+   ng-scrollbar {
+     --scrollbar-size: 10px;
+     --scrollbar-thumb-color: #212529;
+     --scrollbar-thumb-hover-color:#fddb3a;
+     --scrollbar-border-radius: 4px;
+   
+   
+   }

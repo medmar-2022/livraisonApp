@@ -1,0 +1,53 @@
+
+  <div mat-dialog-content *ngIf="coli" ><h5>Colie N° {{coli.coliId}}</h5>
+    <div class="alert alert-success" role="alert" style="width: 70%; ">
+     Situation actuel de la coli: {{coli.situationColi}}
+    </div>
+    
+    <form action="" [formGroup]="commandUpdateForm">
+      <div class="user-details">
+        <div class="input-box">
+          <span class="details">Nom de client</span>
+          <input type="text"  formControlName="clientName" [(ngModel)]="coli.clientName" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Téléphone</span>
+          <input type="text"  formControlName="clientTele" [(ngModel)]="coli.clientTele" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Ville</span>
+          <input type="text"  formControlName="clientVille" [(ngModel)]="coli.clientVille" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Adresse</span>
+          <input type="text"  formControlName="clientAdress" [(ngModel)]="coli.clientAdress" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Montant</span>
+          <input type="text"   formControlName="montant" [(ngModel)]="coli.montant" required>
+        </div>
+       <div>
+        <select name="" id="" formControlName="situationColi">
+          <option value="Ramassée">Ramassée</option>
+          <option value="Envoyée" selected>Envoyée</option>
+          <option value="Livrée">Livrée</option>
+          <option value="Facturée">Facturée</option>
+          <option value="Retournée">Retournée</option>
+          <option value="Reportée">Reportée</option>
+          <option value="Refusée">Refusée</option>
+          <option value="Injoiniable">Injoiniable</option>
+          <option value="Annulée">Annulée</option>
+        </select>
+       </div>
+       <div class="input-box">
+        <span class="details">Date de livraison</span>
+        <input type="date"   formControlName="dateLivraison">
+      </div>
+      </div>
+     
+      <div class="button">
+        <input type="submit" (click)="updatecoli()"  value="Ajouter">
+      </div>
+    </form>
+  </div>
+  

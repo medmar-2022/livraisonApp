@@ -1,0 +1,89 @@
+<div *ngIf="!hideSideMenu">
+  <div style="margin: 30px;">
+    <button type="button" class="btn btn-primary btn-lg" (click)="addcoli()"><fa-icon [icon]="faPlusCircle"></fa-icon> Ajouter une colie</button>
+  </div>
+  
+  <ng-scrollbar [track]="'all'" style="height: 450px;margin: 10px;">
+    <div class=""  >
+          
+      <table class="table">
+        <thead class="table-dark tr" >
+          <tr class="tr">
+            <th>N°colie</th>
+            <th>Date d'envoi</th>
+            <th>Nom</th>
+            <th>Télephone</th>
+            <th>Ville</th>
+            <th>Adresse </th>
+            <th>Montant</th>
+            <th>Situation</th>
+            <th>Date de livraison</th>
+        </tr>
+        </thead>
+         
+         <tbody>
+          <tr  *ngFor="let coli of colis">
+              
+            <td>{{coli.coliId}}</td>
+            <td>{{coli.dateRamassage}}</td>
+             <td >{{coli.clientName}}</td>
+             <td >{{coli.clientTele}}</td>
+             <td >{{coli.clientVille}}</td>
+             <td >{{coli.clientAdress}}</td>
+             <td >{{coli.montant}},00</td>
+             <td id="sc" [ngStyle]="{'color': setColor? 'blue' : (setColor ? 'green' : null) }">{{coli.situationColi}}</td>
+             <td>{{coli.dateLivraison}}</td>
+            
+              
+            </tr>
+         </tbody>
+            
+      </table>
+    </div>
+    
+  </ng-scrollbar>
+  
+</div>
+
+<div *ngIf="hideSideMenu" style="margin: 20px;">
+  <div style="margin-bottom: 20px;width: 70%;">
+    <button type="button" class="btn btn-primary btn-lg" (click)="addcoli()"><fa-icon [icon]="faPlusCircle"></fa-icon> Ajouter une colie</button>
+  </div>
+  <cdk-virtual-scroll-viewport appendOnly itemSize="" class="example-viewport">
+    <table class="table">
+      <thead class="table-dark tr" >
+        <tr class="tr">
+          <th>N°colie</th>
+          <th>Date d'envoi</th>
+          <th>Nom</th>
+          <th>Télephone</th>
+          <th>Ville</th>
+          <th>Adresse </th>
+          <th>Montant</th>
+          <th>Situation</th>
+          <th>Date de livraison</th>
+      </tr>
+      </thead>
+       
+       <tbody>
+        <tr  *ngFor="let coli of colis">
+            
+          <td>{{coli.coliId}}</td>
+          <td>{{coli.dateRamassage}}</td>
+           <td >{{coli.clientName}}</td>
+           <td >{{coli.clientTele}}</td>
+           <td >{{coli.clientVille}}</td>
+           <td >{{coli.clientAdress}}</td>
+           <td >{{coli.montant}},00</td>
+           <td id="sc" [ngStyle]="{'color': setColor? 'blue' : (setColor ? 'green' : null) }">{{coli.situationColi}}</td>
+           <td>{{coli.dateLivraison}}</td>
+          
+            
+          </tr>
+       </tbody>
+          
+    </table>
+    
+  </cdk-virtual-scroll-viewport>
+  
+</div>

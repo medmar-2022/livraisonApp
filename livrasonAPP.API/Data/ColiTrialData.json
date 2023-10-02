@@ -1,0 +1,2002 @@
+[
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-03T07:21 ",
+    "clientName": "Vargas Mckinney",
+    "clientTele": "+212(907) 432-3786",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 395,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-15T09:50 ",
+    "clientName": "Walters Henry",
+    "clientTele": "+212(946) 590-3738",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 271,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-21T10:55 ",
+    "clientName": "Dawson Summers",
+    "clientTele": "+212(805) 582-2916",
+    "clientVille": "rabat",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 413,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-10T04:39 ",
+    "clientName": "Conrad Mckay",
+    "clientTele": "+212(850) 558-2715",
+    "clientVille": "tanger",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 254,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-27T02:51 ",
+    "clientName": "Kelly Williams",
+    "clientTele": "+212(955) 439-3517",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 310,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-05-01T07:28 ",
+    "clientName": "Roxanne Barrera",
+    "clientTele": "+212(823) 538-2205",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 348,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-04T01:21 ",
+    "clientName": "Helga Cardenas",
+    "clientTele": "+212(979) 474-2815",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 108,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-20T11:25 ",
+    "clientName": "Hughes Schroeder",
+    "clientTele": "+212(886) 440-2787",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 228,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-13T02:16 ",
+    "clientName": "Lorrie Fischer",
+    "clientTele": "+212(884) 448-3988",
+    "clientVille": "tanger",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 269,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-17T10:17 ",
+    "clientName": "Therese Herrera",
+    "clientTele": "+212(920) 514-2738",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 180,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-02T09:54 ",
+    "clientName": "Flossie Holmes",
+    "clientTele": "+212(819) 519-3728",
+    "clientVille": "tanger",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 313,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-05T11:59 ",
+    "clientName": "Dunn Gonzales",
+    "clientTele": "+212(950) 479-2001",
+    "clientVille": "tanger",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 123,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-15T04:38 ",
+    "clientName": "Bertha Ochoa",
+    "clientTele": "+212(948) 426-2444",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 341,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-29T03:14 ",
+    "clientName": "Powers Blair",
+    "clientTele": "+212(969) 546-3453",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 168,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-05T06:34 ",
+    "clientName": "Millicent Nielsen",
+    "clientTele": "+212(966) 478-3248",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 392,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-07T12:43 ",
+    "clientName": "Dora Todd",
+    "clientTele": "+212(856) 461-3838",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 263,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-14T02:38 ",
+    "clientName": "Goldie Watson",
+    "clientTele": "+212(800) 538-3770",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 266,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-26T05:52 ",
+    "clientName": "Miranda Stokes",
+    "clientTele": "+212(877) 496-2091",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 390,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-03T04:51 ",
+    "clientName": "Jeanine Jordan",
+    "clientTele": "+212(966) 576-3517",
+    "clientVille": "casa",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 164,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-11T03:30 ",
+    "clientName": "Whitfield Norman",
+    "clientTele": "+212(823) 428-2209",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 499,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-03T11:00 ",
+    "clientName": "Browning Mcdonald",
+    "clientTele": "+212(875) 412-2821",
+    "clientVille": "agadir",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 281,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-01T06:42 ",
+    "clientName": "Chapman Parrish",
+    "clientTele": "+212(808) 573-3805",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 368,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-16T04:32 ",
+    "clientName": "Moreno Richmond",
+    "clientTele": "+212(859) 516-2840",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 310,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-08T09:56 ",
+    "clientName": "Carr Tyson",
+    "clientTele": "+212(900) 598-3164",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 379,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-05T01:58 ",
+    "clientName": "Watts Moore",
+    "clientTele": "+212(867) 518-2465",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 428,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-06T03:07 ",
+    "clientName": "Antoinette Orr",
+    "clientTele": "+212(934) 514-2655",
+    "clientVille": "tanger",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 247,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-04T06:28 ",
+    "clientName": "Espinoza Fletcher",
+    "clientTele": "+212(834) 484-3777",
+    "clientVille": "marrakech",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 471,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-05-02T07:18 ",
+    "clientName": "Hays Le",
+    "clientTele": "+212(978) 467-2997",
+    "clientVille": "tanger",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 494,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-05T09:37 ",
+    "clientName": "Rios Dyer",
+    "clientTele": "+212(948) 485-2575",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 202,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-04T04:00 ",
+    "clientName": "Mendez Clarke",
+    "clientTele": "+212(994) 585-2057",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 200,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-19T04:30 ",
+    "clientName": "Shawn Peck",
+    "clientTele": "+212(894) 568-2292",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 458,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-12T04:07 ",
+    "clientName": "Tanner Poole",
+    "clientTele": "+212(858) 462-2509",
+    "clientVille": "marrakech",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 180,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-17T03:29 ",
+    "clientName": "Noemi Vaughn",
+    "clientTele": "+212(889) 522-2601",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 268,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-04T11:41 ",
+    "clientName": "Estella Morales",
+    "clientTele": "+212(946) 587-2916",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 365,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-07T07:33 ",
+    "clientName": "Freida Church",
+    "clientTele": "+212(910) 400-2928",
+    "clientVille": "marrakech",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 284,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-10T06:50 ",
+    "clientName": "Lynnette Dalton",
+    "clientTele": "+212(948) 563-2210",
+    "clientVille": "tanger",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 138,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-24T01:04 ",
+    "clientName": "Savannah Perry",
+    "clientTele": "+212(837) 427-3833",
+    "clientVille": "marrakech",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 126,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-07T06:09 ",
+    "clientName": "Dorothea Hogan",
+    "clientTele": "+212(936) 469-2549",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 151,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-07T12:48 ",
+    "clientName": "Hickman Marks",
+    "clientTele": "+212(860) 490-3099",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 167,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-24T12:03 ",
+    "clientName": "Marisa Bond",
+    "clientTele": "+212(983) 452-3115",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 456,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-23T04:51 ",
+    "clientName": "Contreras Murray",
+    "clientTele": "+212(961) 549-2394",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 485,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-10T10:50 ",
+    "clientName": "Sarah Townsend",
+    "clientTele": "+212(825) 565-3263",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 364,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-23T01:52 ",
+    "clientName": "Abbott Hoffman",
+    "clientTele": "+212(963) 525-3724",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 226,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-01T03:09 ",
+    "clientName": "Betsy Camacho",
+    "clientTele": "+212(826) 422-2733",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 480,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-12T05:02 ",
+    "clientName": "Adrian Padilla",
+    "clientTele": "+212(959) 460-3525",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 407,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-14T06:39 ",
+    "clientName": "Lidia Valdez",
+    "clientTele": "+212(999) 536-2811",
+    "clientVille": "agadir",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 179,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-29T05:32 ",
+    "clientName": "Jeri Taylor",
+    "clientTele": "+212(847) 559-2988",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 259,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-21T10:58 ",
+    "clientName": "Jeanie Saunders",
+    "clientTele": "+212(956) 437-3577",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 396,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-04T07:16 ",
+    "clientName": "Eileen Thornton",
+    "clientTele": "+212(972) 539-2686",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 342,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-13T03:43 ",
+    "clientName": "Ray Maynard",
+    "clientTele": "+212(847) 446-3727",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 481,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-31T04:50 ",
+    "clientName": "Roberson Diaz",
+    "clientTele": "+212(826) 580-3681",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 290,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-19T08:48 ",
+    "clientName": "Ewing Dean",
+    "clientTele": "+212(963) 483-2861",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 145,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-18T04:33 ",
+    "clientName": "Gretchen Figueroa",
+    "clientTele": "+212(929) 474-3526",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 100,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-08T05:37 ",
+    "clientName": "Dean Harper",
+    "clientTele": "+212(836) 434-3691",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 251,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-08T08:08 ",
+    "clientName": "Barton Carlson",
+    "clientTele": "+212(983) 475-2186",
+    "clientVille": "casa",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 324,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-08T02:06 ",
+    "clientName": "June Hurst",
+    "clientTele": "+212(984) 469-3062",
+    "clientVille": "tanger",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 275,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-08T06:44 ",
+    "clientName": "Lynn Bishop",
+    "clientTele": "+212(907) 522-3311",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 171,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-20T12:09 ",
+    "clientName": "Helene Campos",
+    "clientTele": "+212(906) 450-3088",
+    "clientVille": "tanger",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 363,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-21T03:24 ",
+    "clientName": "Oliver Barton",
+    "clientTele": "+212(851) 403-2711",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 278,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-04T02:49 ",
+    "clientName": "Jerry Duncan",
+    "clientTele": "+212(889) 531-2165",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 134,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-10T02:34 ",
+    "clientName": "Mullins Hewitt",
+    "clientTele": "+212(932) 466-2924",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 339,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-17T01:38 ",
+    "clientName": "Kathy Lowery",
+    "clientTele": "+212(929) 406-2426",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 494,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-08T08:20 ",
+    "clientName": "Yolanda Love",
+    "clientTele": "+212(877) 589-3908",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 312,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-29T05:36 ",
+    "clientName": "Martina Williamson",
+    "clientTele": "+212(949) 477-2518",
+    "clientVille": "marrakech",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 111,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-05-04T07:14 ",
+    "clientName": "Hattie Burris",
+    "clientTele": "+212(904) 428-2521",
+    "clientVille": "agadir",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 421,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-03T11:40 ",
+    "clientName": "Knapp Craft",
+    "clientTele": "+212(900) 487-3941",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 231,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-18T09:41 ",
+    "clientName": "Kaufman Moran",
+    "clientTele": "+212(931) 437-3704",
+    "clientVille": "rabat",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 479,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-04T01:15 ",
+    "clientName": "Aimee Simpson",
+    "clientTele": "+212(944) 491-2267",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 163,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-26T06:35 ",
+    "clientName": "Delgado Mcpherson",
+    "clientTele": "+212(889) 586-2310",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 333,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-28T08:20 ",
+    "clientName": "Hines Alvarado",
+    "clientTele": "+212(909) 502-2005",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 208,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-20T04:22 ",
+    "clientName": "Cathleen Pickett",
+    "clientTele": "+212(854) 528-3084",
+    "clientVille": "casa",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 479,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-31T01:27 ",
+    "clientName": "Cooley Erickson",
+    "clientTele": "+212(936) 552-3559",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 490,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-09T10:18 ",
+    "clientName": "Parrish Sears",
+    "clientTele": "+212(970) 576-2898",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 393,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-01T10:12 ",
+    "clientName": "Imelda Weaver",
+    "clientTele": "+212(839) 455-2828",
+    "clientVille": "tanger",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 199,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-05T03:11 ",
+    "clientName": "Jane Doyle",
+    "clientTele": "+212(848) 451-3998",
+    "clientVille": "agadir",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 200,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-08T12:34 ",
+    "clientName": "Tiffany Pugh",
+    "clientTele": "+212(991) 555-2082",
+    "clientVille": "tanger",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 338,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-04T07:39 ",
+    "clientName": "Violet Colon",
+    "clientTele": "+212(826) 585-3953",
+    "clientVille": "tanger",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 287,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-08T12:23 ",
+    "clientName": "Beck Johns",
+    "clientTele": "+212(884) 542-3312",
+    "clientVille": "tanger",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 303,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-03T12:57 ",
+    "clientName": "Hunter Fuentes",
+    "clientTele": "+212(983) 517-3307",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 113,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-10T12:46 ",
+    "clientName": "Mccoy Gilliam",
+    "clientTele": "+212(878) 477-2825",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 221,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-20T10:53 ",
+    "clientName": "Elaine Burch",
+    "clientTele": "+212(829) 578-2154",
+    "clientVille": "casa",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 222,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-20T12:05 ",
+    "clientName": "Janelle Dotson",
+    "clientTele": "+212(877) 436-3162",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 430,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-11T09:58 ",
+    "clientName": "Benton Riddle",
+    "clientTele": "+212(820) 500-2450",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 171,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-26T08:05 ",
+    "clientName": "Fisher Nguyen",
+    "clientTele": "+212(971) 553-2719",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 455,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-31T09:46 ",
+    "clientName": "Connie Barnett",
+    "clientTele": "+212(908) 543-3601",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 298,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-25T06:50 ",
+    "clientName": "Whitley Marshall",
+    "clientTele": "+212(824) 456-2186",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 325,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-02T02:26 ",
+    "clientName": "Kent Mooney",
+    "clientTele": "+212(863) 532-3738",
+    "clientVille": "agadir",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 164,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-24T11:19 ",
+    "clientName": "Stephens Hall",
+    "clientTele": "+212(917) 568-2140",
+    "clientVille": "rabat",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 396,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-16T03:07 ",
+    "clientName": "Mccarty Leblanc",
+    "clientTele": "+212(868) 505-3755",
+    "clientVille": "agadir",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 361,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-27T04:58 ",
+    "clientName": "Kimberly Fulton",
+    "clientTele": "+212(875) 410-3272",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 319,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-19T12:46 ",
+    "clientName": "Oneill Hopkins",
+    "clientTele": "+212(938) 565-2045",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 452,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-16T09:45 ",
+    "clientName": "Best Coffey",
+    "clientTele": "+212(803) 452-2528",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 496,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-17T08:06 ",
+    "clientName": "Avila Hines",
+    "clientTele": "+212(864) 600-3972",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 322,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-06T04:28 ",
+    "clientName": "Angelia Ewing",
+    "clientTele": "+212(808) 557-3982",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 475,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-26T10:15 ",
+    "clientName": "Greene Rivera",
+    "clientTele": "+212(873) 465-2149",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 179,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-28T08:42 ",
+    "clientName": "Roxie Finch",
+    "clientTele": "+212(921) 444-2567",
+    "clientVille": "marrakech",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 450,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-01T01:48 ",
+    "clientName": "Eunice Middleton",
+    "clientTele": "+212(863) 549-3668",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 472,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-06T05:32 ",
+    "clientName": "Hendricks Franks",
+    "clientTele": "+212(980) 524-2157",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 420,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-25T09:12 ",
+    "clientName": "Sutton Matthews",
+    "clientTele": "+212(965) 424-3138",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 114,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-11T03:28 ",
+    "clientName": "Alisa Burnett",
+    "clientTele": "+212(986) 466-3181",
+    "clientVille": "casa",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 187,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-28T04:55 ",
+    "clientName": "Bishop Morse",
+    "clientTele": "+212(952) 456-2034",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 129,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-02T05:21 ",
+    "clientName": "Shaw Brock",
+    "clientTele": "+212(843) 584-2481",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 111,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-24T10:39 ",
+    "clientName": "Ladonna Velasquez",
+    "clientTele": "+212(997) 568-3772",
+    "clientVille": "casa",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 181,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-03T05:17 ",
+    "clientName": "Gillespie Hays",
+    "clientTele": "+212(980) 441-2570",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 178,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-17T08:26 ",
+    "clientName": "Tamara Blake",
+    "clientTele": "+212(872) 477-3876",
+    "clientVille": "marrakech",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 183,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-05T01:49 ",
+    "clientName": "Alyson Collier",
+    "clientTele": "+212(963) 557-2525",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 409,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-07T10:13 ",
+    "clientName": "Buchanan Hendrix",
+    "clientTele": "+212(865) 587-3335",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 166,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-16T02:14 ",
+    "clientName": "Shanna Short",
+    "clientTele": "+212(800) 543-2439",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 154,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-27T09:53 ",
+    "clientName": "Joan Hodge",
+    "clientTele": "+212(958) 428-2199",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 183,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-05-04T06:59 ",
+    "clientName": "Michael Combs",
+    "clientTele": "+212(857) 593-2041",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 297,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-14T02:20 ",
+    "clientName": "May Briggs",
+    "clientTele": "+212(996) 507-3621",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 249,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-25T04:42 ",
+    "clientName": "Vinson Hoover",
+    "clientTele": "+212(878) 438-3680",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 471,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-22T09:56 ",
+    "clientName": "Wilda Gamble",
+    "clientTele": "+212(958) 449-2025",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 475,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-18T02:09 ",
+    "clientName": "Inez Nunez",
+    "clientTele": "+212(876) 515-3146",
+    "clientVille": "tanger",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 118,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-09T08:43 ",
+    "clientName": "Debora Mcclure",
+    "clientTele": "+212(882) 498-3687",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 320,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-03T06:28 ",
+    "clientName": "Fuentes Mitchell",
+    "clientTele": "+212(875) 560-3988",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 471,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-14T08:09 ",
+    "clientName": "Shari Perkins",
+    "clientTele": "+212(988) 442-2794",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 193,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-29T10:32 ",
+    "clientName": "Saundra Cameron",
+    "clientTele": "+212(916) 595-3660",
+    "clientVille": "agadir",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 294,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-10T07:54 ",
+    "clientName": "Lynne Day",
+    "clientTele": "+212(932) 411-3669",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 391,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-19T12:47 ",
+    "clientName": "Burns Larsen",
+    "clientTele": "+212(810) 491-2327",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 160,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-05T10:23 ",
+    "clientName": "Mercedes Bernard",
+    "clientTele": "+212(959) 574-3992",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 415,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-31T04:17 ",
+    "clientName": "Ayers Goodman",
+    "clientTele": "+212(945) 481-2067",
+    "clientVille": "tanger",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 437,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-23T01:20 ",
+    "clientName": "Kelley Harrison",
+    "clientTele": "+212(823) 449-2037",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 109,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-20T12:08 ",
+    "clientName": "Marcy Chambers",
+    "clientTele": "+212(963) 429-3442",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 349,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-26T01:24 ",
+    "clientName": "Bullock Hammond",
+    "clientTele": "+212(958) 598-3788",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 346,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-04T03:14 ",
+    "clientName": "Kristie Sims",
+    "clientTele": "+212(877) 505-2038",
+    "clientVille": "marrakech",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 129,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-25T01:38 ",
+    "clientName": "Maynard Mcdaniel",
+    "clientTele": "+212(978) 598-3929",
+    "clientVille": "rabat",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 329,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-19T07:20 ",
+    "clientName": "Allyson Mercer",
+    "clientTele": "+212(836) 456-3525",
+    "clientVille": "casa",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 382,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-23T03:27 ",
+    "clientName": "Duffy Burke",
+    "clientTele": "+212(883) 480-2354",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 340,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-15T03:57 ",
+    "clientName": "Wiggins Larson",
+    "clientTele": "+212(958) 521-3783",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 402,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-15T07:55 ",
+    "clientName": "Jensen Howell",
+    "clientTele": "+212(889) 582-3983",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 496,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-28T10:40 ",
+    "clientName": "Brown Blanchard",
+    "clientTele": "+212(979) 542-3513",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 409,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-02T03:54 ",
+    "clientName": "Gallagher Anderson",
+    "clientTele": "+212(856) 427-2826",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 183,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-10T10:13 ",
+    "clientName": "Benjamin Santos",
+    "clientTele": "+212(865) 416-3861",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 364,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-11T10:51 ",
+    "clientName": "Wilcox Ward",
+    "clientTele": "+212(966) 468-3579",
+    "clientVille": "marrakech",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 357,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-21T04:01 ",
+    "clientName": "Gibbs Fitzgerald",
+    "clientTele": "+212(938) 417-2463",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 256,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-05-04T09:07 ",
+    "clientName": "Cook Lloyd",
+    "clientTele": "+212(804) 562-2171",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 164,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-22T02:59 ",
+    "clientName": "Mercado Russo",
+    "clientTele": "+212(881) 571-2765",
+    "clientVille": "marrakech",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 452,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-07T09:25 ",
+    "clientName": "Gill Hendricks",
+    "clientTele": "+212(860) 497-3164",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 470,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-14T03:30 ",
+    "clientName": "England Garza",
+    "clientTele": "+212(835) 543-2988",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 187,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-28T01:18 ",
+    "clientName": "Rich Levy",
+    "clientTele": "+212(828) 508-3119",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 384,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-08T07:34 ",
+    "clientName": "Walton Gibson",
+    "clientTele": "+212(935) 519-2307",
+    "clientVille": "marrakech",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 417,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-04T05:19 ",
+    "clientName": "Davidson Singleton",
+    "clientTele": "+212(905) 542-2964",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 228,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-19T08:46 ",
+    "clientName": "Kelly Estes",
+    "clientTele": "+212(947) 524-3717",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 199,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-03T02:58 ",
+    "clientName": "Hood Santana",
+    "clientTele": "+212(884) 574-3487",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 435,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-07T11:10 ",
+    "clientName": "George Mendez",
+    "clientTele": "+212(909) 567-3991",
+    "clientVille": "rabat",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 206,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-12T08:31 ",
+    "clientName": "Chambers Hardy",
+    "clientTele": "+212(843) 589-2044",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 450,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-13T06:21 ",
+    "clientName": "Oneal Lester",
+    "clientTele": "+212(968) 543-2244",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 368,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-18T08:03 ",
+    "clientName": "Jenna Abbott",
+    "clientTele": "+212(840) 520-3704",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 492,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-05-03T11:44 ",
+    "clientName": "Peterson Merrill",
+    "clientTele": "+212(956) 562-3336",
+    "clientVille": "agadir",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 424,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-13T10:46 ",
+    "clientName": "Shepherd Lee",
+    "clientTele": "+212(920) 554-3371",
+    "clientVille": "agadir",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 182,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-01T09:17 ",
+    "clientName": "Hopkins Daniel",
+    "clientTele": "+212(966) 482-2813",
+    "clientVille": "agadir",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 213,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-09T06:11 ",
+    "clientName": "Madelyn Chang",
+    "clientTele": "+212(851) 493-2409",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 158,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-13T08:21 ",
+    "clientName": "Rowena Roth",
+    "clientTele": "+212(822) 408-2432",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 389,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-08T06:32 ",
+    "clientName": "Garner Sweet",
+    "clientTele": "+212(839) 511-2346",
+    "clientVille": "tanger",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 369,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-24T10:57 ",
+    "clientName": "Megan Horne",
+    "clientTele": "+212(851) 422-2356",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 137,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-27T06:08 ",
+    "clientName": "Rhoda Evans",
+    "clientTele": "+212(851) 464-3025",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 490,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-28T05:49 ",
+    "clientName": "Porter Crosby",
+    "clientTele": "+212(893) 420-2596",
+    "clientVille": "casa",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 395,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-13T08:45 ",
+    "clientName": "Minnie Randolph",
+    "clientTele": "+212(843) 569-2529",
+    "clientVille": "marrakech",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 359,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-15T10:35 ",
+    "clientName": "Polly Vega",
+    "clientTele": "+212(957) 471-3121",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 276,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-25T02:29 ",
+    "clientName": "Levy Blankenship",
+    "clientTele": "+212(994) 563-3891",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 123,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-24T12:45 ",
+    "clientName": "Bianca Woods",
+    "clientTele": "+212(986) 504-2547",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 443,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-19T03:36 ",
+    "clientName": "Kristina Mcfadden",
+    "clientTele": "+212(930) 470-2021",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 140,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-09T07:46 ",
+    "clientName": "Kidd Pena",
+    "clientTele": "+212(911) 515-3560",
+    "clientVille": "marrakech",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 313,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-22T04:20 ",
+    "clientName": "Pate Snider",
+    "clientTele": "+212(841) 538-3899",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 155,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-15T02:18 ",
+    "clientName": "Lily Gates",
+    "clientTele": "+212(899) 570-3258",
+    "clientVille": "tanger",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 484,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-08T02:15 ",
+    "clientName": "Clayton Mills",
+    "clientTele": "+212(921) 589-2646",
+    "clientVille": "casa",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 254,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-05T10:06 ",
+    "clientName": "Meyers Sutton",
+    "clientTele": "+212(847) 492-3668",
+    "clientVille": "marrakech",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 312,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-30T07:03 ",
+    "clientName": "Gloria Hunter",
+    "clientTele": "+212(829) 480-2259",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 341,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-24T06:58 ",
+    "clientName": "Kelley Ingram",
+    "clientTele": "+212(967) 558-3083",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 119,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-10T11:39 ",
+    "clientName": "Katelyn Miles",
+    "clientTele": "+212(897) 549-2520",
+    "clientVille": "marrakech",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 297,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-19T05:00 ",
+    "clientName": "Leila Medina",
+    "clientTele": "+212(835) 475-3277",
+    "clientVille": "agadir",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 293,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-05-01T12:51 ",
+    "clientName": "Carver Phillips",
+    "clientTele": "+212(962) 561-3976",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 265,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-24T04:28 ",
+    "clientName": "Lopez Phelps",
+    "clientTele": "+212(878) 553-2546",
+    "clientVille": "rabat",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 239,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-02-21T09:56 ",
+    "clientName": "Camille Morrison",
+    "clientTele": "+212(870) 549-2416",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 121,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-03T06:26 ",
+    "clientName": "Cross Weber",
+    "clientTele": "+212(964) 511-3295",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 122,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-26T11:58 ",
+    "clientName": "Macias Espinoza",
+    "clientTele": "+212(974) 436-3630",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 133,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-19T04:28 ",
+    "clientName": "Julianne Rosales",
+    "clientTele": "+212(827) 516-3022",
+    "clientVille": "tanger",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 263,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-25T09:41 ",
+    "clientName": "Sophia Wyatt",
+    "clientTele": "+212(983) 562-3332",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 170,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-16T08:08 ",
+    "clientName": "Clara Rich",
+    "clientTele": "+212(980) 586-3811",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 371,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-27T06:56 ",
+    "clientName": "Diane Guy",
+    "clientTele": "+212(952) 542-2425",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 102,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-21T04:47 ",
+    "clientName": "Sparks Dunn",
+    "clientTele": "+212(999) 530-3519",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 488,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-03T06:49 ",
+    "clientName": "Phillips Sparks",
+    "clientTele": "+212(999) 430-2646",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 407,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-01-03T07:33 ",
+    "clientName": "Pratt England",
+    "clientTele": "+212(994) 578-3583",
+    "clientVille": "marrakech",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 419,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-13T08:20 ",
+    "clientName": "Estrada Daniels",
+    "clientTele": "+212(952) 540-2783",
+    "clientVille": "rabat",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 485,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-25T10:08 ",
+    "clientName": "Helena Burgess",
+    "clientTele": "+212(846) 569-2781",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 114,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-09T10:20 ",
+    "clientName": "Hutchinson Holloway",
+    "clientTele": "+212(950) 526-3430",
+    "clientVille": "marrakech",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 226,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-01T06:09 ",
+    "clientName": "Clark Pitts",
+    "clientTele": "+212(969) 435-3407",
+    "clientVille": "tanger",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 241,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-02-03T09:49 ",
+    "clientName": "Juliana Sexton",
+    "clientTele": "+212(988) 435-2980",
+    "clientVille": "marrakech",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 162,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-08T11:46 ",
+    "clientName": "Mayer Caldwell",
+    "clientTele": "+212(827) 436-2890",
+    "clientVille": "agadir",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 380,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-26T07:08 ",
+    "clientName": "Simone Stout",
+    "clientTele": "+212(864) 422-3954",
+    "clientVille": "tanger",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 225,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-29T04:49 ",
+    "clientName": "Audra Rogers",
+    "clientTele": "+212(945) 566-3203",
+    "clientVille": "marrakech",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 188,
+    "situationColi": "livrée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-28T02:43 ",
+    "clientName": "Brady Bentley",
+    "clientTele": "+212(946) 475-2404",
+    "clientVille": "tanger",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 277,
+    "situationColi": "en attente"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-01-15T01:59 ",
+    "clientName": "Mills Crane",
+    "clientTele": "+212(887) 556-3481",
+    "clientVille": "tanger",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 476,
+    "situationColi": "ramacée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-22T06:29 ",
+    "clientName": "Allie Case",
+    "clientTele": "+212(884) 422-3612",
+    "clientVille": "casa",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 174,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-21T10:41 ",
+    "clientName": "Valerie Barrett",
+    "clientTele": "+212(899) 424-2774",
+    "clientVille": "casa",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 231,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-04-20T05:05 ",
+    "clientName": "Candy Acosta",
+    "clientTele": "+212(953) 583-3910",
+    "clientVille": "rabat",
+    "clientAdress": "lotissement alia groupe 3 immeuble 10 n7",
+    "montant": 355,
+    "situationColi": "envoyée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-03-19T02:14 ",
+    "clientName": "Guy Albert",
+    "clientTele": "+212(942) 569-2957",
+    "clientVille": "tanger",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 465,
+    "situationColi": "facturée"
+  },
+  {
+    "userId": 1,
+    "dateRamassage": "2023-03-19T06:44 ",
+    "clientName": "Cote Andrews",
+    "clientTele": "+212(845) 410-2971",
+    "clientVille": "casa",
+    "clientAdress": "bd thami ru somia n 15",
+    "montant": 189,
+    "situationColi": "retournée"
+  },
+  {
+    "userId": 2,
+    "dateRamassage": "2023-04-03T10:35 ",
+    "clientName": "Aurora Delacruz",
+    "clientTele": "+212(817) 424-3027",
+    "clientVille": "tanger",
+    "clientAdress": "el maarif rue barkan n7",
+    "montant": 267,
+    "situationColi": "envoyée"
+  }
+]

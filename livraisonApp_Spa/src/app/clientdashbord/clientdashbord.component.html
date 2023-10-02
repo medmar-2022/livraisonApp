@@ -1,0 +1,34 @@
+<div class="container">
+  <div class="title">Ajouter une colie</div>
+  <div class="content">
+    <form  [formGroup]="commandForm">
+      <div class="user-details">
+        <div class="input-box">
+          <span class="details">Nom de client</span>
+          <input type="text" placeholder="Tapez le nom de votre distinataire" formControlName="clientName" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Téléphone</span>
+          <input type="text" placeholder="Tapez le N° de télephone de votre distinataire" formControlName="clientTele" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Ville</span>
+          <input type="text" placeholder="Tapez la ville de votre distinataire" formControlName="clientVille" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Adresse</span>
+          <input type="text" placeholder="Tapez l'adresse de votre distinataire" formControlName="clientAdress" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Montant</span>
+          <input type="text" placeholder=" Tapez le montant de votre colie"  formControlName="montant" required>
+        </div>
+       
+      </div>
+     
+      <div class="button">
+        <input type="submit" (click)="addcoli()" value="Ajouter">
+      </div>
+    </form>
+  </div>
+</div>

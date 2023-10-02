@@ -1,0 +1,45 @@
+<div class="widget-container">
+    <div class="widget green">
+      
+      <div class="value">
+        <div class="top">{{count.sommColiFac}}</div>
+        <div class="bottom">Colis facurées</div>
+      </div>
+    </div>
+    <div class="widget yellow">
+      
+      <div class="value">
+        <div class="top">{{count.sommColiLiv}}</div>
+        <div class="bottom">Colis livrées</div>
+      </div>
+    </div>
+    <div class="widget red">
+     
+      <div class="value">
+        <div class="top">{{count.sommColiRet}}</div>
+        <div class="bottom">Colis retournées </div>
+      </div>
+    </div>
+    <div class="widget blue">
+      
+      <div class="value">
+        <div class="top">{{count.sommColiEnv}}</div>
+        <div class="bottom">Colis envoyées</div>
+      </div>
+    </div>
+    
+  </div>
+  <div class="alert alert-success" role="alert" style="width: 70%; margin: 25px;">
+    Vous avez {{count.sommColiAtt}} colies en attente
+  </div>
+ 
+  <div class="">
+    <div class="widget left">
+      <app-admin-chart></app-admin-chart>
+    </div>
+    
+  </div>
+  
+ 
+
+

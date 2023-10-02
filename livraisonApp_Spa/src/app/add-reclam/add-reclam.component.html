@@ -1,0 +1,44 @@
+
+   
+      <div>
+        <table class="table">
+          <thead class="table-dark tr">
+            <tr class="tr">
+              
+              <th>Date de réclamation</th>
+              <th>Titre </th>
+              <th>Message</th>
+              <th>Situation</th>
+                
+           </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let reclam of reclam">
+             <td>{{reclam.dateRecl}}</td>
+             <td>{{reclam.titreRecl}}</td>
+             <td>{{reclam.messRecl}}</td>
+             <td>{{reclam.situation}}</td>
+             
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="container" >
+        <h4>Ajouter une Réclamation</h4>
+        <form [formGroup]="reclamForm" >
+          <textarea maxlength="200" rows="4" cols="50" formControlName="messRecl" placeholder="Tapez votre message" ></textarea><br>
+          <select name="" id="" formControlName="titreRecl" >
+            <option value="Modification de colie" >Modification de colie</option>
+            <option value="Retard de livraison" >Retard de livraison</option>
+            <option value="Retard de remboursement" >Retard de remboursement</option>
+            <option value="Autre" >Autre</option>
+          </select><br>
+          
+          
+          <input type="button" class="btn btn-primary" style="margin: 20px;text-align: center;" (click)="addRec()" value="Ajouter">
+        </form>
+       
+      </div>
+    
+    
+

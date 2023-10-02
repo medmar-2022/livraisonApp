@@ -1,0 +1,24 @@
+<div mat-dialog-content *ngIf="reclam" ><h5>Réclamation N° {{reclam.reclamId}}</h5>
+    
+    
+    <form action="" [formGroup]="reclamUpdateForm">
+      <div class="user-details">
+        <div class="input-box">
+          <span class="details">Repence</span>
+          <input type="text"  formControlName="repenseRecl" [(ngModel)]="reclam.repenseRecl" required>
+        </div>
+        
+       <div>
+        <select name="" id="" formControlName="situation" [(ngModel)]="reclam.situation">
+          <option value="Traitée">Traitée</option>
+          
+        </select>
+       </div>
+       
+      </div>
+     
+      <div class="button">
+        <input type="submit" (click)="updatereclam()"  value="Sauvgarder">
+      </div>
+    </form>
+  </div>

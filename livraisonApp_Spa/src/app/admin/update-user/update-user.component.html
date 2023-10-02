@@ -1,0 +1,36 @@
+
+<div mat-dialog-content *ngIf="user" ><h5>Client N° {{user.userId}}</h5>
+    
+    
+    <form action="" [formGroup]="userUpdateForm">
+      <div class="user-details">
+        <div class="input-box">
+          <span class="details">Nom de client</span>
+          <input type="text"  formControlName="storeName" [(ngModel)]="user.storeName" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Email</span>
+          <input type="text"  formControlName="email" [(ngModel)]="user.email" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Ville</span>
+          <input type="text"  formControlName="ville" [(ngModel)]="user.ville" required>
+        </div>
+        <div class="input-box">
+          <span class="details">CIN</span>
+          <input type="text"  formControlName="cinUrl" [(ngModel)]="user.cinUrl" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Téléphone</span>
+          <input type="text"  formControlName="telephone" [(ngModel)]="user.telephone" required>
+        </div>
+       
+      </div>
+     
+      <div class="button">
+        <input type="submit"  (click)="updateuser()" value="Sauvgarder">
+      </div>
+    </form>
+  </div>
+  
+

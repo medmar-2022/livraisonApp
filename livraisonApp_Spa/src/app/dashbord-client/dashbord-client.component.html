@@ -1,0 +1,58 @@
+
+  
+  <div class="content"  >
+    <input type="radio" name="slider" checked id="home">
+    <input type="radio" name="slider" id="blog">
+    <input type="radio" name="slider" id="help">
+    <input type="radio" name="slider" id="code">
+    <input type="radio" name="slider" id="about">
+    <input type="button" name="slider" id="dec">
+    <div class="list">
+      <label for="home" class="home">
+      <i class="fas fa-home"></i>
+      <span class="title">Dashbord</span>
+    </label>
+    <label for="blog" class="blog">
+      <span class="icon"><i class="fas fa-blog"></i></span>
+      <span class="title">Ajouter colie</span>
+    </label>
+    <label for="help" class="help">
+      <span class="icon"><i class="far fa-envelope"></i></span>
+      <span class="title">Colis</span>
+    </label>
+    <label for="code" class="code">
+      <span class="icon"><i class="fas fa-code"></i></span>
+      <span class="title">Réclamations</span>
+    </label>
+    <label for="about" class="about">
+      <span class="icon"><i class="far fa-user"></i></span>
+      <span class="title">Tarifs</span>
+    </label>
+    <button class="dec" (click)="loggedOut();">Déconexion</button>
+    <div class="slider"></div>
+  </div>
+    <div class="text-content">
+      <div class="home text">
+        
+        <app-top-widgets></app-top-widgets>
+      </div>
+      <div class="blog text">
+        
+        <app-clientdashbord></app-clientdashbord>
+      </div>
+      <div class="help text">
+        <app-client ></app-client >
+        
+      </div>
+      <div class="code text">
+        
+        <app-add-reclam ></app-add-reclam>
+      </div>
+      <div class="about text">
+        <div class="title">Déconexion</div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus incidunt possimus quas ad, sit nam veniam illo ullam sapiente, aspernatur fugiat atque. Laboriosam libero voluptatum molestiae veniam earum quisquam, laudantium aperiam, eligendi dicta animi maxime sunt non nisi, ex, ipsa! Soluta ex, quibusdam voluptatem distinctio asperiores recusandae veritatis optio dolorem illo nesciunt quos ullam, dicta numquam ipsam cumque sed. Blanditiis omnis placeat, enim sit dicta eligendi voluptatibus laborum consectetur repudiandae tempora numquam molestiae rerum mollitia nemo. Velit perspiciatis, nesciunt, quo illo quas error debitis molestiae et sapiente neque tempore natus?</p>
+      </div>
+    </div>
+  </div>
+
+

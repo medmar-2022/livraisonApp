@@ -1,0 +1,70 @@
+<ng-scrollbar [track]="'all'" style="height: 450px;width:1000px;margin-top: 20px;">
+  <table mat-table [dataSource]="colis" class="mat-elevation-z8">
+
+    <!--- Note that these columns can be defined in any order.
+          The actual rendered columns are set as a property on the row definition" -->
+          
+    <!-- Position Column -->
+    <ng-container matColumnDef="coli">
+      <th mat-header-cell *matHeaderCellDef> N°colie</th>
+      <td mat-cell *matCellDef="let coli"> {{coli.coliId}} </td>
+    </ng-container>
+  
+    <!-- Name Column -->
+    <ng-container matColumnDef="nom">
+      <th mat-header-cell *matHeaderCellDef> Nom </th>
+      <td mat-cell *matCellDef="let coli"> {{coli.clientName}} </td>
+    </ng-container>
+  
+    <!-- Weight Column -->
+    <ng-container matColumnDef="telephone">
+      <th mat-header-cell *matHeaderCellDef> Telephone </th>
+      <td mat-cell *matCellDef="let coli"> {{coli.clientTele}} </td>
+    </ng-container>
+  
+    <!-- Symbol Column -->
+    <ng-container matColumnDef="ville">
+      <th mat-header-cell *matHeaderCellDef> Ville </th>
+      <td mat-cell *matCellDef="let coli"> {{coli.clientVille}} </td>
+    </ng-container>
+
+     <!-- Adresse Column -->
+     <ng-container matColumnDef="adresse">
+      <th mat-header-cell *matHeaderCellDef> Adresse </th>
+      <td mat-cell *matCellDef="let coli"> {{coli.clientAdress}} </td>
+    </ng-container>
+
+     <!-- Symbol Column -->
+     <ng-container matColumnDef="montant">
+      <th mat-header-cell *matHeaderCellDef> Montant </th>
+      <td mat-cell *matCellDef="let coli"> {{coli.montant}} </td>
+    </ng-container>
+
+     <!-- Situation Column -->
+     <ng-container matColumnDef="situation">
+      <th mat-header-cell *matHeaderCellDef> Situation </th>
+      <td mat-cell *matCellDef="let coli"> {{coli.situationColi}} </td>
+    </ng-container>
+     
+     <!-- Symbol Column -->
+
+     <ng-container matColumnDef="date de livraison">
+      <th mat-header-cell *matHeaderCellDef> Date de livraison</th>
+      <td mat-cell *matCellDef="let coli"> {{coli.dateLivraison}} </td>
+    </ng-container>
+    <ng-container matColumnDef="modifier" >
+      <th mat-header-cell *matHeaderCellDef > Modifier</th>
+      <td mat-cell *matCellDef="let coli"> <input type="button"  value="modifier"> </td>
+      
+    </ng-container>
+    
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns:displayedColumns;"
+    (click)="onRowClicked(row)" ></tr>
+  </table>
+  
+  
+  
+</ng-scrollbar>
+

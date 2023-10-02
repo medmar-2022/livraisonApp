@@ -1,0 +1,79 @@
+<div class="widget-container" *ngIf="isPhonePortrait">
+
+    <div class="widget green">
+      <div class="value">
+        <div class="top">{{count.sommColiFac}}</div>
+        <div class="bottom">Colis facurées</div>
+      </div>
+    </div>
+
+    <div class="widget yellow">
+      <div class="value">
+        <div class="top">{{count.sommColiLiv}}</div>
+        <div class="bottom">Colis livrées</div>
+      </div>
+    </div>
+
+    <div class="widget red">
+      <div class="value">
+        <div class="top">{{count.sommColiRet}}</div>
+        <div class="bottom">Colis retournées </div>
+      </div>
+    </div>
+
+    <div class="widget blue">
+      <div class="value">
+        <div class="top">{{count.sommColiEnv}}</div>
+        <div class="bottom">Colis envoyées</div>
+      </div>
+    </div>
+    
+  
+  <div class="alert alert-success" role="alert" style="width: 90%;margin: 20px; ">
+    Vous avez {{count.sommColiAtt}} colies en attente
+  </div>
+
+  <div class="" style="width: 100%;text-align: center;">
+  <app-sales-by-month></app-sales-by-month>
+  </div>
+</div>
+ 
+<div *ngIf="!isPhonePortrait">
+  <div class="widget-container-browser ">
+    <div class="widget-browser  green">
+      
+      <div class="value-browser">
+        <div class="top-browser">{{count.sommColiFac}}</div>
+        <div class="bottom">Colis facurées</div>
+      </div>
+    </div>
+    <div class="widget-browser  yellow">
+      
+      <div class="value-browser">
+        <div class="top-browser">{{count.sommColiLiv}}</div>
+        <div class="bottom">Colis livrées</div>
+      </div>
+    </div>
+    <div class="widget-browser  red">
+      
+      <div class="value-browser">
+        <div class="top-browser">{{count.sommColiRet}}</div>
+        <div class="bottom">Colis retournées</div>
+      </div>
+    </div>
+    <div class="widget-browser  blue">
+      
+      <div class="value-browser">
+        <div class="top-browser">{{count.sommColiEnv}}</div>
+        <div class="bottom">Colis envoyées</div>
+      </div>
+    </div>
+  </div>
+  <div class="alert alert-success" role="alert" style="width: 90%;margin: 20px; ">
+    Vous avez {{count.sommColiAtt}} colies en attente
+  </div>
+
+  <div class="" style="width: 100%;text-align: center;">
+  <app-sales-by-month></app-sales-by-month>
+  </div>
+</div>

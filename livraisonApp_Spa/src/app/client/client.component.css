@@ -1,0 +1,32 @@
+.tr{
+ border-radius: 10%;
+
+}
+.table{
+  
+  box-sizing: border-box;
+  border-radius: 5px;
+ position: relative;
+  font: 1em sans-serif;
+}
+ng-scrollbar {
+  --scrollbar-size: 10px;
+  --scrollbar-thumb-color: #212529;
+  --scrollbar-thumb-hover-color:#fddb3a;
+  --scrollbar-border-radius: 4px;
+
+
+}
+.example-viewport {
+  height: 500px;
+  width: 350px;
+  border: 1px none #212529;
+  
+  border-radius: 4px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+/*.example-item {
+  height: 50px;
+}*/

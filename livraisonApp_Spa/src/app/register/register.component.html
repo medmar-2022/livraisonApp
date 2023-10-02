@@ -1,0 +1,37 @@
+<div class="container">
+  <div class="title">Ecrire un nouveau compte</div>
+  <div class="content">
+    <form [formGroup]="registerForm">
+      <div class="user-details">
+        <div class="input-box">
+          <span class="details">Nom d'utilisateur</span>
+          <input type="text" placeholder="Tappez votre nom" required formControlName="storename">
+        </div>
+        <div class="input-box">
+          <span class="details">Adresse e-mail</span>
+          <input type="text" placeholder="Tappez votre email" required formControlName="email">
+        </div>
+        <div class="input-box">
+          <span class="details">Téléphone</span>
+          <input type="text" placeholder="Tappez votre N° de Téléphone" required formControlName="telephone">
+        </div>
+        <div class="input-box">
+          <span class="details">CIN</span>
+          <input type="text" placeholder="Tappez votre N° de CIN" required formControlName="cinurl">
+        </div>
+        <div class="input-box">
+          <span class="details">Ville</span>
+          <input type="text" placeholder="Tappez votre ville" required formControlName="ville">
+        </div>
+        <div class="input-box">
+          <span class="details">Mot de passe</span>
+          <input type="password" placeholder="Choisir un mot de passe" required>
+        </div>
+      </div>
+
+      <div class="button">
+        <input type="submit" value="S'inscrire" (click)="register()">
+      </div>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,28 @@
+<div class="container">
+  <mat-tab-group [@.disabled]="true" >
+    <mat-tab>
+      <ng-template mat-tab-label>
+        Dashbord
+      </ng-template>
+      <div><app-dash></app-dash></div>
+    </mat-tab>
+    <mat-tab>
+      <ng-template mat-tab-label>
+        Coli
+      </ng-template>
+      <div><app-grid-colis></app-grid-colis></div>
+    </mat-tab>
+    <mat-tab>
+      <ng-template mat-tab-label>
+      Réclamations
+      </ng-template>
+     <app-update-reclam></app-update-reclam>
+    </mat-tab>
+    <mat-tab>
+      <ng-template mat-tab-label>
+        Clients
+      </ng-template>
+      <app-client-list></app-client-list>
+    </mat-tab>
+  </mat-tab-group>
+</div>
